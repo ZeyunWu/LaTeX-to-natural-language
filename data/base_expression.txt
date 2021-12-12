@@ -1,0 +1,2393 @@
+latex;natural language
+0-0;zero minus zero
+0-0;subtract zero from zero
+0-1;zero minus one
+0-1;subtract one from zero
+0-2;zero minus two
+0-2;subtract two from zero
+0-3;zero minus three
+0-3;subtract three from zero
+0-4;zero minus four
+0-4;subtract four from zero
+0-5;zero minus five
+0-5;subtract five from zero
+0-6;zero minus six
+0-6;subtract six from zero
+0-7;zero minus seven
+0-7;subtract seven from zero
+0-8;zero minus eight
+0-8;subtract eight from zero
+0-9;zero minus nine
+0-9;subtract nine from zero
+0-x;zero minus x
+0-x;subtract x from zero
+0-y;zero minus y
+0-y;subtract y from zero
+0-z;zero minus z
+0-z;subtract z from zero
+1-0;one minus zero
+1-0;subtract zero from one
+1-1;one minus one
+1-1;subtract one from one
+1-2;one minus two
+1-2;subtract two from one
+1-3;one minus three
+1-3;subtract three from one
+1-4;one minus four
+1-4;subtract four from one
+1-5;one minus five
+1-5;subtract five from one
+1-6;one minus six
+1-6;subtract six from one
+1-7;one minus seven
+1-7;subtract seven from one
+1-8;one minus eight
+1-8;subtract eight from one
+1-9;one minus nine
+1-9;subtract nine from one
+1-x;one minus x
+1-x;subtract x from one
+1-y;one minus y
+1-y;subtract y from one
+1-z;one minus z
+1-z;subtract z from one
+2-0;two minus zero
+2-0;subtract zero from two
+2-1;two minus one
+2-1;subtract one from two
+2-2;two minus two
+2-2;subtract two from two
+2-3;two minus three
+2-3;subtract three from two
+2-4;two minus four
+2-4;subtract four from two
+2-5;two minus five
+2-5;subtract five from two
+2-6;two minus six
+2-6;subtract six from two
+2-7;two minus seven
+2-7;subtract seven from two
+2-8;two minus eight
+2-8;subtract eight from two
+2-9;two minus nine
+2-9;subtract nine from two
+2-x;two minus x
+2-x;subtract x from two
+2-y;two minus y
+2-y;subtract y from two
+2-z;two minus z
+2-z;subtract z from two
+3-0;three minus zero
+3-0;subtract zero from three
+3-1;three minus one
+3-1;subtract one from three
+3-2;three minus two
+3-2;subtract two from three
+3-3;three minus three
+3-3;subtract three from three
+3-4;three minus four
+3-4;subtract four from three
+3-5;three minus five
+3-5;subtract five from three
+3-6;three minus six
+3-6;subtract six from three
+3-7;three minus seven
+3-7;subtract seven from three
+3-8;three minus eight
+3-8;subtract eight from three
+3-9;three minus nine
+3-9;subtract nine from three
+3-x;three minus x
+3-x;subtract x from three
+3-y;three minus y
+3-y;subtract y from three
+3-z;three minus z
+3-z;subtract z from three
+4-0;four minus zero
+4-0;subtract zero from four
+4-1;four minus one
+4-1;subtract one from four
+4-2;four minus two
+4-2;subtract two from four
+4-3;four minus three
+4-3;subtract three from four
+4-4;four minus four
+4-4;subtract four from four
+4-5;four minus five
+4-5;subtract five from four
+4-6;four minus six
+4-6;subtract six from four
+4-7;four minus seven
+4-7;subtract seven from four
+4-8;four minus eight
+4-8;subtract eight from four
+4-9;four minus nine
+4-9;subtract nine from four
+4-x;four minus x
+4-x;subtract x from four
+4-y;four minus y
+4-y;subtract y from four
+4-z;four minus z
+4-z;subtract z from four
+5-0;five minus zero
+5-0;subtract zero from five
+5-1;five minus one
+5-1;subtract one from five
+5-2;five minus two
+5-2;subtract two from five
+5-3;five minus three
+5-3;subtract three from five
+5-4;five minus four
+5-4;subtract four from five
+5-5;five minus five
+5-5;subtract five from five
+5-6;five minus six
+5-6;subtract six from five
+5-7;five minus seven
+5-7;subtract seven from five
+5-8;five minus eight
+5-8;subtract eight from five
+5-9;five minus nine
+5-9;subtract nine from five
+5-x;five minus x
+5-x;subtract x from five
+5-y;five minus y
+5-y;subtract y from five
+5-z;five minus z
+5-z;subtract z from five
+6-0;six minus zero
+6-0;subtract zero from six
+6-1;six minus one
+6-1;subtract one from six
+6-2;six minus two
+6-2;subtract two from six
+6-3;six minus three
+6-3;subtract three from six
+6-4;six minus four
+6-4;subtract four from six
+6-5;six minus five
+6-5;subtract five from six
+6-6;six minus six
+6-6;subtract six from six
+6-7;six minus seven
+6-7;subtract seven from six
+6-8;six minus eight
+6-8;subtract eight from six
+6-9;six minus nine
+6-9;subtract nine from six
+6-x;six minus x
+6-x;subtract x from six
+6-y;six minus y
+6-y;subtract y from six
+6-z;six minus z
+6-z;subtract z from six
+7-0;seven minus zero
+7-0;subtract zero from seven
+7-1;seven minus one
+7-1;subtract one from seven
+7-2;seven minus two
+7-2;subtract two from seven
+7-3;seven minus three
+7-3;subtract three from seven
+7-4;seven minus four
+7-4;subtract four from seven
+7-5;seven minus five
+7-5;subtract five from seven
+7-6;seven minus six
+7-6;subtract six from seven
+7-7;seven minus seven
+7-7;subtract seven from seven
+7-8;seven minus eight
+7-8;subtract eight from seven
+7-9;seven minus nine
+7-9;subtract nine from seven
+7-x;seven minus x
+7-x;subtract x from seven
+7-y;seven minus y
+7-y;subtract y from seven
+7-z;seven minus z
+7-z;subtract z from seven
+8-0;eight minus zero
+8-0;subtract zero from eight
+8-1;eight minus one
+8-1;subtract one from eight
+8-2;eight minus two
+8-2;subtract two from eight
+8-3;eight minus three
+8-3;subtract three from eight
+8-4;eight minus four
+8-4;subtract four from eight
+8-5;eight minus five
+8-5;subtract five from eight
+8-6;eight minus six
+8-6;subtract six from eight
+8-7;eight minus seven
+8-7;subtract seven from eight
+8-8;eight minus eight
+8-8;subtract eight from eight
+8-9;eight minus nine
+8-9;subtract nine from eight
+8-x;eight minus x
+8-x;subtract x from eight
+8-y;eight minus y
+8-y;subtract y from eight
+8-z;eight minus z
+8-z;subtract z from eight
+9-0;nine minus zero
+9-0;subtract zero from nine
+9-1;nine minus one
+9-1;subtract one from nine
+9-2;nine minus two
+9-2;subtract two from nine
+9-3;nine minus three
+9-3;subtract three from nine
+9-4;nine minus four
+9-4;subtract four from nine
+9-5;nine minus five
+9-5;subtract five from nine
+9-6;nine minus six
+9-6;subtract six from nine
+9-7;nine minus seven
+9-7;subtract seven from nine
+9-8;nine minus eight
+9-8;subtract eight from nine
+9-9;nine minus nine
+9-9;subtract nine from nine
+9-x;nine minus x
+9-x;subtract x from nine
+9-y;nine minus y
+9-y;subtract y from nine
+9-z;nine minus z
+9-z;subtract z from nine
+x-0;x minus zero
+x-0;subtract zero from x
+x-1;x minus one
+x-1;subtract one from x
+x-2;x minus two
+x-2;subtract two from x
+x-3;x minus three
+x-3;subtract three from x
+x-4;x minus four
+x-4;subtract four from x
+x-5;x minus five
+x-5;subtract five from x
+x-6;x minus six
+x-6;subtract six from x
+x-7;x minus seven
+x-7;subtract seven from x
+x-8;x minus eight
+x-8;subtract eight from x
+x-9;x minus nine
+x-9;subtract nine from x
+x-x;x minus x
+x-x;subtract x from x
+x-y;x minus y
+x-y;subtract y from x
+x-z;x minus z
+x-z;subtract z from x
+y-0;y minus zero
+y-0;subtract zero from y
+y-1;y minus one
+y-1;subtract one from y
+y-2;y minus two
+y-2;subtract two from y
+y-3;y minus three
+y-3;subtract three from y
+y-4;y minus four
+y-4;subtract four from y
+y-5;y minus five
+y-5;subtract five from y
+y-6;y minus six
+y-6;subtract six from y
+y-7;y minus seven
+y-7;subtract seven from y
+y-8;y minus eight
+y-8;subtract eight from y
+y-9;y minus nine
+y-9;subtract nine from y
+y-x;y minus x
+y-x;subtract x from y
+y-y;y minus y
+y-y;subtract y from y
+y-z;y minus z
+y-z;subtract z from y
+z-0;z minus zero
+z-0;subtract zero from z
+z-1;z minus one
+z-1;subtract one from z
+z-2;z minus two
+z-2;subtract two from z
+z-3;z minus three
+z-3;subtract three from z
+z-4;z minus four
+z-4;subtract four from z
+z-5;z minus five
+z-5;subtract five from z
+z-6;z minus six
+z-6;subtract six from z
+z-7;z minus seven
+z-7;subtract seven from z
+z-8;z minus eight
+z-8;subtract eight from z
+z-9;z minus nine
+z-9;subtract nine from z
+z-x;z minus x
+z-x;subtract x from z
+z-y;z minus y
+z-y;subtract y from z
+z-z;z minus z
+z-z;subtract z from z
+0^0;zero to the zero
+0^0;zero to the power of zero
+0^1;zero to the one
+0^1;zero to the power of one
+0^2;zero to the two
+0^2;zero to the power of two
+0^3;zero to the three
+0^3;zero to the power of three
+0^4;zero to the four
+0^4;zero to the power of four
+0^5;zero to the five
+0^5;zero to the power of five
+0^6;zero to the six
+0^6;zero to the power of six
+0^7;zero to the seven
+0^7;zero to the power of seven
+0^8;zero to the eight
+0^8;zero to the power of eight
+0^9;zero to the nine
+0^9;zero to the power of nine
+0^x;zero to the x
+0^x;zero to the power of x
+0^y;zero to the y
+0^y;zero to the power of y
+0^z;zero to the z
+0^z;zero to the power of z
+1^0;one to the zero
+1^0;one to the power of zero
+1^1;one to the one
+1^1;one to the power of one
+1^2;one to the two
+1^2;one to the power of two
+1^3;one to the three
+1^3;one to the power of three
+1^4;one to the four
+1^4;one to the power of four
+1^5;one to the five
+1^5;one to the power of five
+1^6;one to the six
+1^6;one to the power of six
+1^7;one to the seven
+1^7;one to the power of seven
+1^8;one to the eight
+1^8;one to the power of eight
+1^9;one to the nine
+1^9;one to the power of nine
+1^x;one to the x
+1^x;one to the power of x
+1^y;one to the y
+1^y;one to the power of y
+1^z;one to the z
+1^z;one to the power of z
+2^0;two to the zero
+2^0;two to the power of zero
+2^1;two to the one
+2^1;two to the power of one
+2^2;two to the two
+2^2;two to the power of two
+2^3;two to the three
+2^3;two to the power of three
+2^4;two to the four
+2^4;two to the power of four
+2^5;two to the five
+2^5;two to the power of five
+2^6;two to the six
+2^6;two to the power of six
+2^7;two to the seven
+2^7;two to the power of seven
+2^8;two to the eight
+2^8;two to the power of eight
+2^9;two to the nine
+2^9;two to the power of nine
+2^x;two to the x
+2^x;two to the power of x
+2^y;two to the y
+2^y;two to the power of y
+2^z;two to the z
+2^z;two to the power of z
+3^0;three to the zero
+3^0;three to the power of zero
+3^1;three to the one
+3^1;three to the power of one
+3^2;three to the two
+3^2;three to the power of two
+3^3;three to the three
+3^3;three to the power of three
+3^4;three to the four
+3^4;three to the power of four
+3^5;three to the five
+3^5;three to the power of five
+3^6;three to the six
+3^6;three to the power of six
+3^7;three to the seven
+3^7;three to the power of seven
+3^8;three to the eight
+3^8;three to the power of eight
+3^9;three to the nine
+3^9;three to the power of nine
+3^x;three to the x
+3^x;three to the power of x
+3^y;three to the y
+3^y;three to the power of y
+3^z;three to the z
+3^z;three to the power of z
+4^0;four to the zero
+4^0;four to the power of zero
+4^1;four to the one
+4^1;four to the power of one
+4^2;four to the two
+4^2;four to the power of two
+4^3;four to the three
+4^3;four to the power of three
+4^4;four to the four
+4^4;four to the power of four
+4^5;four to the five
+4^5;four to the power of five
+4^6;four to the six
+4^6;four to the power of six
+4^7;four to the seven
+4^7;four to the power of seven
+4^8;four to the eight
+4^8;four to the power of eight
+4^9;four to the nine
+4^9;four to the power of nine
+4^x;four to the x
+4^x;four to the power of x
+4^y;four to the y
+4^y;four to the power of y
+4^z;four to the z
+4^z;four to the power of z
+5^0;five to the zero
+5^0;five to the power of zero
+5^1;five to the one
+5^1;five to the power of one
+5^2;five to the two
+5^2;five to the power of two
+5^3;five to the three
+5^3;five to the power of three
+5^4;five to the four
+5^4;five to the power of four
+5^5;five to the five
+5^5;five to the power of five
+5^6;five to the six
+5^6;five to the power of six
+5^7;five to the seven
+5^7;five to the power of seven
+5^8;five to the eight
+5^8;five to the power of eight
+5^9;five to the nine
+5^9;five to the power of nine
+5^x;five to the x
+5^x;five to the power of x
+5^y;five to the y
+5^y;five to the power of y
+5^z;five to the z
+5^z;five to the power of z
+6^0;six to the zero
+6^0;six to the power of zero
+6^1;six to the one
+6^1;six to the power of one
+6^2;six to the two
+6^2;six to the power of two
+6^3;six to the three
+6^3;six to the power of three
+6^4;six to the four
+6^4;six to the power of four
+6^5;six to the five
+6^5;six to the power of five
+6^6;six to the six
+6^6;six to the power of six
+6^7;six to the seven
+6^7;six to the power of seven
+6^8;six to the eight
+6^8;six to the power of eight
+6^9;six to the nine
+6^9;six to the power of nine
+6^x;six to the x
+6^x;six to the power of x
+6^y;six to the y
+6^y;six to the power of y
+6^z;six to the z
+6^z;six to the power of z
+7^0;seven to the zero
+7^0;seven to the power of zero
+7^1;seven to the one
+7^1;seven to the power of one
+7^2;seven to the two
+7^2;seven to the power of two
+7^3;seven to the three
+7^3;seven to the power of three
+7^4;seven to the four
+7^4;seven to the power of four
+7^5;seven to the five
+7^5;seven to the power of five
+7^6;seven to the six
+7^6;seven to the power of six
+7^7;seven to the seven
+7^7;seven to the power of seven
+7^8;seven to the eight
+7^8;seven to the power of eight
+7^9;seven to the nine
+7^9;seven to the power of nine
+7^x;seven to the x
+7^x;seven to the power of x
+7^y;seven to the y
+7^y;seven to the power of y
+7^z;seven to the z
+7^z;seven to the power of z
+8^0;eight to the zero
+8^0;eight to the power of zero
+8^1;eight to the one
+8^1;eight to the power of one
+8^2;eight to the two
+8^2;eight to the power of two
+8^3;eight to the three
+8^3;eight to the power of three
+8^4;eight to the four
+8^4;eight to the power of four
+8^5;eight to the five
+8^5;eight to the power of five
+8^6;eight to the six
+8^6;eight to the power of six
+8^7;eight to the seven
+8^7;eight to the power of seven
+8^8;eight to the eight
+8^8;eight to the power of eight
+8^9;eight to the nine
+8^9;eight to the power of nine
+8^x;eight to the x
+8^x;eight to the power of x
+8^y;eight to the y
+8^y;eight to the power of y
+8^z;eight to the z
+8^z;eight to the power of z
+9^0;nine to the zero
+9^0;nine to the power of zero
+9^1;nine to the one
+9^1;nine to the power of one
+9^2;nine to the two
+9^2;nine to the power of two
+9^3;nine to the three
+9^3;nine to the power of three
+9^4;nine to the four
+9^4;nine to the power of four
+9^5;nine to the five
+9^5;nine to the power of five
+9^6;nine to the six
+9^6;nine to the power of six
+9^7;nine to the seven
+9^7;nine to the power of seven
+9^8;nine to the eight
+9^8;nine to the power of eight
+9^9;nine to the nine
+9^9;nine to the power of nine
+9^x;nine to the x
+9^x;nine to the power of x
+9^y;nine to the y
+9^y;nine to the power of y
+9^z;nine to the z
+9^z;nine to the power of z
+x^0;x to the zero
+x^0;x to the power of zero
+x^1;x to the one
+x^1;x to the power of one
+x^2;x to the two
+x^2;x to the power of two
+x^3;x to the three
+x^3;x to the power of three
+x^4;x to the four
+x^4;x to the power of four
+x^5;x to the five
+x^5;x to the power of five
+x^6;x to the six
+x^6;x to the power of six
+x^7;x to the seven
+x^7;x to the power of seven
+x^8;x to the eight
+x^8;x to the power of eight
+x^9;x to the nine
+x^9;x to the power of nine
+x^x;x to the x
+x^x;x to the power of x
+x^y;x to the y
+x^y;x to the power of y
+x^z;x to the z
+x^z;x to the power of z
+y^0;y to the zero
+y^0;y to the power of zero
+y^1;y to the one
+y^1;y to the power of one
+y^2;y to the two
+y^2;y to the power of two
+y^3;y to the three
+y^3;y to the power of three
+y^4;y to the four
+y^4;y to the power of four
+y^5;y to the five
+y^5;y to the power of five
+y^6;y to the six
+y^6;y to the power of six
+y^7;y to the seven
+y^7;y to the power of seven
+y^8;y to the eight
+y^8;y to the power of eight
+y^9;y to the nine
+y^9;y to the power of nine
+y^x;y to the x
+y^x;y to the power of x
+y^y;y to the y
+y^y;y to the power of y
+y^z;y to the z
+y^z;y to the power of z
+z^0;z to the zero
+z^0;z to the power of zero
+z^1;z to the one
+z^1;z to the power of one
+z^2;z to the two
+z^2;z to the power of two
+z^3;z to the three
+z^3;z to the power of three
+z^4;z to the four
+z^4;z to the power of four
+z^5;z to the five
+z^5;z to the power of five
+z^6;z to the six
+z^6;z to the power of six
+z^7;z to the seven
+z^7;z to the power of seven
+z^8;z to the eight
+z^8;z to the power of eight
+z^9;z to the nine
+z^9;z to the power of nine
+z^x;z to the x
+z^x;z to the power of x
+z^y;z to the y
+z^y;z to the power of y
+z^z;z to the z
+z^z;z to the power of z
+0^2;zero squared
+0^2;zero to the power of two
+1^2;one squared
+1^2;one to the power of two
+2^2;two squared
+2^2;two to the power of two
+3^2;three squared
+3^2;three to the power of two
+4^2;four squared
+4^2;four to the power of two
+5^2;five squared
+5^2;five to the power of two
+6^2;six squared
+6^2;six to the power of two
+7^2;seven squared
+7^2;seven to the power of two
+8^2;eight squared
+8^2;eight to the power of two
+9^2;nine squared
+9^2;nine to the power of two
+x^2;x squared
+x^2;x to the power of two
+y^2;y squared
+y^2;y to the power of two
+z^2;z squared
+z^2;z to the power of two
+\frac{0}{0};zero over zero
+\frac{0}{0};zero divided by zero
+\frac{0}{1};zero over one
+\frac{0}{1};zero divided by one
+\frac{0}{2};zero over two
+\frac{0}{2};zero divided by two
+\frac{0}{3};zero over three
+\frac{0}{3};zero divided by three
+\frac{0}{4};zero over four
+\frac{0}{4};zero divided by four
+\frac{0}{5};zero over five
+\frac{0}{5};zero divided by five
+\frac{0}{6};zero over six
+\frac{0}{6};zero divided by six
+\frac{0}{7};zero over seven
+\frac{0}{7};zero divided by seven
+\frac{0}{8};zero over eight
+\frac{0}{8};zero divided by eight
+\frac{0}{9};zero over nine
+\frac{0}{9};zero divided by nine
+\frac{0}{x};zero over x
+\frac{0}{x};zero divided by x
+\frac{0}{y};zero over y
+\frac{0}{y};zero divided by y
+\frac{0}{z};zero over z
+\frac{0}{z};zero divided by z
+\frac{1}{0};one over zero
+\frac{1}{0};one divided by zero
+\frac{1}{1};one over one
+\frac{1}{1};one divided by one
+\frac{1}{2};one over two
+\frac{1}{2};one divided by two
+\frac{1}{3};one over three
+\frac{1}{3};one divided by three
+\frac{1}{4};one over four
+\frac{1}{4};one divided by four
+\frac{1}{5};one over five
+\frac{1}{5};one divided by five
+\frac{1}{6};one over six
+\frac{1}{6};one divided by six
+\frac{1}{7};one over seven
+\frac{1}{7};one divided by seven
+\frac{1}{8};one over eight
+\frac{1}{8};one divided by eight
+\frac{1}{9};one over nine
+\frac{1}{9};one divided by nine
+\frac{1}{x};one over x
+\frac{1}{x};one divided by x
+\frac{1}{y};one over y
+\frac{1}{y};one divided by y
+\frac{1}{z};one over z
+\frac{1}{z};one divided by z
+\frac{2}{0};two over zero
+\frac{2}{0};two divided by zero
+\frac{2}{1};two over one
+\frac{2}{1};two divided by one
+\frac{2}{2};two over two
+\frac{2}{2};two divided by two
+\frac{2}{3};two over three
+\frac{2}{3};two divided by three
+\frac{2}{4};two over four
+\frac{2}{4};two divided by four
+\frac{2}{5};two over five
+\frac{2}{5};two divided by five
+\frac{2}{6};two over six
+\frac{2}{6};two divided by six
+\frac{2}{7};two over seven
+\frac{2}{7};two divided by seven
+\frac{2}{8};two over eight
+\frac{2}{8};two divided by eight
+\frac{2}{9};two over nine
+\frac{2}{9};two divided by nine
+\frac{2}{x};two over x
+\frac{2}{x};two divided by x
+\frac{2}{y};two over y
+\frac{2}{y};two divided by y
+\frac{2}{z};two over z
+\frac{2}{z};two divided by z
+\frac{3}{0};three over zero
+\frac{3}{0};three divided by zero
+\frac{3}{1};three over one
+\frac{3}{1};three divided by one
+\frac{3}{2};three over two
+\frac{3}{2};three divided by two
+\frac{3}{3};three over three
+\frac{3}{3};three divided by three
+\frac{3}{4};three over four
+\frac{3}{4};three divided by four
+\frac{3}{5};three over five
+\frac{3}{5};three divided by five
+\frac{3}{6};three over six
+\frac{3}{6};three divided by six
+\frac{3}{7};three over seven
+\frac{3}{7};three divided by seven
+\frac{3}{8};three over eight
+\frac{3}{8};three divided by eight
+\frac{3}{9};three over nine
+\frac{3}{9};three divided by nine
+\frac{3}{x};three over x
+\frac{3}{x};three divided by x
+\frac{3}{y};three over y
+\frac{3}{y};three divided by y
+\frac{3}{z};three over z
+\frac{3}{z};three divided by z
+\frac{4}{0};four over zero
+\frac{4}{0};four divided by zero
+\frac{4}{1};four over one
+\frac{4}{1};four divided by one
+\frac{4}{2};four over two
+\frac{4}{2};four divided by two
+\frac{4}{3};four over three
+\frac{4}{3};four divided by three
+\frac{4}{4};four over four
+\frac{4}{4};four divided by four
+\frac{4}{5};four over five
+\frac{4}{5};four divided by five
+\frac{4}{6};four over six
+\frac{4}{6};four divided by six
+\frac{4}{7};four over seven
+\frac{4}{7};four divided by seven
+\frac{4}{8};four over eight
+\frac{4}{8};four divided by eight
+\frac{4}{9};four over nine
+\frac{4}{9};four divided by nine
+\frac{4}{x};four over x
+\frac{4}{x};four divided by x
+\frac{4}{y};four over y
+\frac{4}{y};four divided by y
+\frac{4}{z};four over z
+\frac{4}{z};four divided by z
+\frac{5}{0};five over zero
+\frac{5}{0};five divided by zero
+\frac{5}{1};five over one
+\frac{5}{1};five divided by one
+\frac{5}{2};five over two
+\frac{5}{2};five divided by two
+\frac{5}{3};five over three
+\frac{5}{3};five divided by three
+\frac{5}{4};five over four
+\frac{5}{4};five divided by four
+\frac{5}{5};five over five
+\frac{5}{5};five divided by five
+\frac{5}{6};five over six
+\frac{5}{6};five divided by six
+\frac{5}{7};five over seven
+\frac{5}{7};five divided by seven
+\frac{5}{8};five over eight
+\frac{5}{8};five divided by eight
+\frac{5}{9};five over nine
+\frac{5}{9};five divided by nine
+\frac{5}{x};five over x
+\frac{5}{x};five divided by x
+\frac{5}{y};five over y
+\frac{5}{y};five divided by y
+\frac{5}{z};five over z
+\frac{5}{z};five divided by z
+\frac{6}{0};six over zero
+\frac{6}{0};six divided by zero
+\frac{6}{1};six over one
+\frac{6}{1};six divided by one
+\frac{6}{2};six over two
+\frac{6}{2};six divided by two
+\frac{6}{3};six over three
+\frac{6}{3};six divided by three
+\frac{6}{4};six over four
+\frac{6}{4};six divided by four
+\frac{6}{5};six over five
+\frac{6}{5};six divided by five
+\frac{6}{6};six over six
+\frac{6}{6};six divided by six
+\frac{6}{7};six over seven
+\frac{6}{7};six divided by seven
+\frac{6}{8};six over eight
+\frac{6}{8};six divided by eight
+\frac{6}{9};six over nine
+\frac{6}{9};six divided by nine
+\frac{6}{x};six over x
+\frac{6}{x};six divided by x
+\frac{6}{y};six over y
+\frac{6}{y};six divided by y
+\frac{6}{z};six over z
+\frac{6}{z};six divided by z
+\frac{7}{0};seven over zero
+\frac{7}{0};seven divided by zero
+\frac{7}{1};seven over one
+\frac{7}{1};seven divided by one
+\frac{7}{2};seven over two
+\frac{7}{2};seven divided by two
+\frac{7}{3};seven over three
+\frac{7}{3};seven divided by three
+\frac{7}{4};seven over four
+\frac{7}{4};seven divided by four
+\frac{7}{5};seven over five
+\frac{7}{5};seven divided by five
+\frac{7}{6};seven over six
+\frac{7}{6};seven divided by six
+\frac{7}{7};seven over seven
+\frac{7}{7};seven divided by seven
+\frac{7}{8};seven over eight
+\frac{7}{8};seven divided by eight
+\frac{7}{9};seven over nine
+\frac{7}{9};seven divided by nine
+\frac{7}{x};seven over x
+\frac{7}{x};seven divided by x
+\frac{7}{y};seven over y
+\frac{7}{y};seven divided by y
+\frac{7}{z};seven over z
+\frac{7}{z};seven divided by z
+\frac{8}{0};eight over zero
+\frac{8}{0};eight divided by zero
+\frac{8}{1};eight over one
+\frac{8}{1};eight divided by one
+\frac{8}{2};eight over two
+\frac{8}{2};eight divided by two
+\frac{8}{3};eight over three
+\frac{8}{3};eight divided by three
+\frac{8}{4};eight over four
+\frac{8}{4};eight divided by four
+\frac{8}{5};eight over five
+\frac{8}{5};eight divided by five
+\frac{8}{6};eight over six
+\frac{8}{6};eight divided by six
+\frac{8}{7};eight over seven
+\frac{8}{7};eight divided by seven
+\frac{8}{8};eight over eight
+\frac{8}{8};eight divided by eight
+\frac{8}{9};eight over nine
+\frac{8}{9};eight divided by nine
+\frac{8}{x};eight over x
+\frac{8}{x};eight divided by x
+\frac{8}{y};eight over y
+\frac{8}{y};eight divided by y
+\frac{8}{z};eight over z
+\frac{8}{z};eight divided by z
+\frac{9}{0};nine over zero
+\frac{9}{0};nine divided by zero
+\frac{9}{1};nine over one
+\frac{9}{1};nine divided by one
+\frac{9}{2};nine over two
+\frac{9}{2};nine divided by two
+\frac{9}{3};nine over three
+\frac{9}{3};nine divided by three
+\frac{9}{4};nine over four
+\frac{9}{4};nine divided by four
+\frac{9}{5};nine over five
+\frac{9}{5};nine divided by five
+\frac{9}{6};nine over six
+\frac{9}{6};nine divided by six
+\frac{9}{7};nine over seven
+\frac{9}{7};nine divided by seven
+\frac{9}{8};nine over eight
+\frac{9}{8};nine divided by eight
+\frac{9}{9};nine over nine
+\frac{9}{9};nine divided by nine
+\frac{9}{x};nine over x
+\frac{9}{x};nine divided by x
+\frac{9}{y};nine over y
+\frac{9}{y};nine divided by y
+\frac{9}{z};nine over z
+\frac{9}{z};nine divided by z
+\frac{x}{0};x over zero
+\frac{x}{0};x divided by zero
+\frac{x}{1};x over one
+\frac{x}{1};x divided by one
+\frac{x}{2};x over two
+\frac{x}{2};x divided by two
+\frac{x}{3};x over three
+\frac{x}{3};x divided by three
+\frac{x}{4};x over four
+\frac{x}{4};x divided by four
+\frac{x}{5};x over five
+\frac{x}{5};x divided by five
+\frac{x}{6};x over six
+\frac{x}{6};x divided by six
+\frac{x}{7};x over seven
+\frac{x}{7};x divided by seven
+\frac{x}{8};x over eight
+\frac{x}{8};x divided by eight
+\frac{x}{9};x over nine
+\frac{x}{9};x divided by nine
+\frac{x}{x};x over x
+\frac{x}{x};x divided by x
+\frac{x}{y};x over y
+\frac{x}{y};x divided by y
+\frac{x}{z};x over z
+\frac{x}{z};x divided by z
+\frac{y}{0};y over zero
+\frac{y}{0};y divided by zero
+\frac{y}{1};y over one
+\frac{y}{1};y divided by one
+\frac{y}{2};y over two
+\frac{y}{2};y divided by two
+\frac{y}{3};y over three
+\frac{y}{3};y divided by three
+\frac{y}{4};y over four
+\frac{y}{4};y divided by four
+\frac{y}{5};y over five
+\frac{y}{5};y divided by five
+\frac{y}{6};y over six
+\frac{y}{6};y divided by six
+\frac{y}{7};y over seven
+\frac{y}{7};y divided by seven
+\frac{y}{8};y over eight
+\frac{y}{8};y divided by eight
+\frac{y}{9};y over nine
+\frac{y}{9};y divided by nine
+\frac{y}{x};y over x
+\frac{y}{x};y divided by x
+\frac{y}{y};y over y
+\frac{y}{y};y divided by y
+\frac{y}{z};y over z
+\frac{y}{z};y divided by z
+\frac{z}{0};z over zero
+\frac{z}{0};z divided by zero
+\frac{z}{1};z over one
+\frac{z}{1};z divided by one
+\frac{z}{2};z over two
+\frac{z}{2};z divided by two
+\frac{z}{3};z over three
+\frac{z}{3};z divided by three
+\frac{z}{4};z over four
+\frac{z}{4};z divided by four
+\frac{z}{5};z over five
+\frac{z}{5};z divided by five
+\frac{z}{6};z over six
+\frac{z}{6};z divided by six
+\frac{z}{7};z over seven
+\frac{z}{7};z divided by seven
+\frac{z}{8};z over eight
+\frac{z}{8};z divided by eight
+\frac{z}{9};z over nine
+\frac{z}{9};z divided by nine
+\frac{z}{x};z over x
+\frac{z}{x};z divided by x
+\frac{z}{y};z over y
+\frac{z}{y};z divided by y
+\frac{z}{z};z over z
+\frac{z}{z};z divided by z
+0+0;zero plus zero
+0+0;add zero to zero
+0+1;zero plus one
+0+1;add zero to one
+0+2;zero plus two
+0+2;add zero to two
+0+3;zero plus three
+0+3;add zero to three
+0+4;zero plus four
+0+4;add zero to four
+0+5;zero plus five
+0+5;add zero to five
+0+6;zero plus six
+0+6;add zero to six
+0+7;zero plus seven
+0+7;add zero to seven
+0+8;zero plus eight
+0+8;add zero to eight
+0+9;zero plus nine
+0+9;add zero to nine
+0+x;zero plus x
+0+x;add zero to x
+0+y;zero plus y
+0+y;add zero to y
+0+z;zero plus z
+0+z;add zero to z
+1+0;one plus zero
+1+0;add one to zero
+1+1;one plus one
+1+1;add one to one
+1+2;one plus two
+1+2;add one to two
+1+3;one plus three
+1+3;add one to three
+1+4;one plus four
+1+4;add one to four
+1+5;one plus five
+1+5;add one to five
+1+6;one plus six
+1+6;add one to six
+1+7;one plus seven
+1+7;add one to seven
+1+8;one plus eight
+1+8;add one to eight
+1+9;one plus nine
+1+9;add one to nine
+1+x;one plus x
+1+x;add one to x
+1+y;one plus y
+1+y;add one to y
+1+z;one plus z
+1+z;add one to z
+2+0;two plus zero
+2+0;add two to zero
+2+1;two plus one
+2+1;add two to one
+2+2;two plus two
+2+2;add two to two
+2+3;two plus three
+2+3;add two to three
+2+4;two plus four
+2+4;add two to four
+2+5;two plus five
+2+5;add two to five
+2+6;two plus six
+2+6;add two to six
+2+7;two plus seven
+2+7;add two to seven
+2+8;two plus eight
+2+8;add two to eight
+2+9;two plus nine
+2+9;add two to nine
+2+x;two plus x
+2+x;add two to x
+2+y;two plus y
+2+y;add two to y
+2+z;two plus z
+2+z;add two to z
+3+0;three plus zero
+3+0;add three to zero
+3+1;three plus one
+3+1;add three to one
+3+2;three plus two
+3+2;add three to two
+3+3;three plus three
+3+3;add three to three
+3+4;three plus four
+3+4;add three to four
+3+5;three plus five
+3+5;add three to five
+3+6;three plus six
+3+6;add three to six
+3+7;three plus seven
+3+7;add three to seven
+3+8;three plus eight
+3+8;add three to eight
+3+9;three plus nine
+3+9;add three to nine
+3+x;three plus x
+3+x;add three to x
+3+y;three plus y
+3+y;add three to y
+3+z;three plus z
+3+z;add three to z
+4+0;four plus zero
+4+0;add four to zero
+4+1;four plus one
+4+1;add four to one
+4+2;four plus two
+4+2;add four to two
+4+3;four plus three
+4+3;add four to three
+4+4;four plus four
+4+4;add four to four
+4+5;four plus five
+4+5;add four to five
+4+6;four plus six
+4+6;add four to six
+4+7;four plus seven
+4+7;add four to seven
+4+8;four plus eight
+4+8;add four to eight
+4+9;four plus nine
+4+9;add four to nine
+4+x;four plus x
+4+x;add four to x
+4+y;four plus y
+4+y;add four to y
+4+z;four plus z
+4+z;add four to z
+5+0;five plus zero
+5+0;add five to zero
+5+1;five plus one
+5+1;add five to one
+5+2;five plus two
+5+2;add five to two
+5+3;five plus three
+5+3;add five to three
+5+4;five plus four
+5+4;add five to four
+5+5;five plus five
+5+5;add five to five
+5+6;five plus six
+5+6;add five to six
+5+7;five plus seven
+5+7;add five to seven
+5+8;five plus eight
+5+8;add five to eight
+5+9;five plus nine
+5+9;add five to nine
+5+x;five plus x
+5+x;add five to x
+5+y;five plus y
+5+y;add five to y
+5+z;five plus z
+5+z;add five to z
+6+0;six plus zero
+6+0;add six to zero
+6+1;six plus one
+6+1;add six to one
+6+2;six plus two
+6+2;add six to two
+6+3;six plus three
+6+3;add six to three
+6+4;six plus four
+6+4;add six to four
+6+5;six plus five
+6+5;add six to five
+6+6;six plus six
+6+6;add six to six
+6+7;six plus seven
+6+7;add six to seven
+6+8;six plus eight
+6+8;add six to eight
+6+9;six plus nine
+6+9;add six to nine
+6+x;six plus x
+6+x;add six to x
+6+y;six plus y
+6+y;add six to y
+6+z;six plus z
+6+z;add six to z
+7+0;seven plus zero
+7+0;add seven to zero
+7+1;seven plus one
+7+1;add seven to one
+7+2;seven plus two
+7+2;add seven to two
+7+3;seven plus three
+7+3;add seven to three
+7+4;seven plus four
+7+4;add seven to four
+7+5;seven plus five
+7+5;add seven to five
+7+6;seven plus six
+7+6;add seven to six
+7+7;seven plus seven
+7+7;add seven to seven
+7+8;seven plus eight
+7+8;add seven to eight
+7+9;seven plus nine
+7+9;add seven to nine
+7+x;seven plus x
+7+x;add seven to x
+7+y;seven plus y
+7+y;add seven to y
+7+z;seven plus z
+7+z;add seven to z
+8+0;eight plus zero
+8+0;add eight to zero
+8+1;eight plus one
+8+1;add eight to one
+8+2;eight plus two
+8+2;add eight to two
+8+3;eight plus three
+8+3;add eight to three
+8+4;eight plus four
+8+4;add eight to four
+8+5;eight plus five
+8+5;add eight to five
+8+6;eight plus six
+8+6;add eight to six
+8+7;eight plus seven
+8+7;add eight to seven
+8+8;eight plus eight
+8+8;add eight to eight
+8+9;eight plus nine
+8+9;add eight to nine
+8+x;eight plus x
+8+x;add eight to x
+8+y;eight plus y
+8+y;add eight to y
+8+z;eight plus z
+8+z;add eight to z
+9+0;nine plus zero
+9+0;add nine to zero
+9+1;nine plus one
+9+1;add nine to one
+9+2;nine plus two
+9+2;add nine to two
+9+3;nine plus three
+9+3;add nine to three
+9+4;nine plus four
+9+4;add nine to four
+9+5;nine plus five
+9+5;add nine to five
+9+6;nine plus six
+9+6;add nine to six
+9+7;nine plus seven
+9+7;add nine to seven
+9+8;nine plus eight
+9+8;add nine to eight
+9+9;nine plus nine
+9+9;add nine to nine
+9+x;nine plus x
+9+x;add nine to x
+9+y;nine plus y
+9+y;add nine to y
+9+z;nine plus z
+9+z;add nine to z
+x+0;x plus zero
+x+0;add x to zero
+x+1;x plus one
+x+1;add x to one
+x+2;x plus two
+x+2;add x to two
+x+3;x plus three
+x+3;add x to three
+x+4;x plus four
+x+4;add x to four
+x+5;x plus five
+x+5;add x to five
+x+6;x plus six
+x+6;add x to six
+x+7;x plus seven
+x+7;add x to seven
+x+8;x plus eight
+x+8;add x to eight
+x+9;x plus nine
+x+9;add x to nine
+x+x;x plus x
+x+x;add x to x
+x+y;x plus y
+x+y;add x to y
+x+z;x plus z
+x+z;add x to z
+y+0;y plus zero
+y+0;add y to zero
+y+1;y plus one
+y+1;add y to one
+y+2;y plus two
+y+2;add y to two
+y+3;y plus three
+y+3;add y to three
+y+4;y plus four
+y+4;add y to four
+y+5;y plus five
+y+5;add y to five
+y+6;y plus six
+y+6;add y to six
+y+7;y plus seven
+y+7;add y to seven
+y+8;y plus eight
+y+8;add y to eight
+y+9;y plus nine
+y+9;add y to nine
+y+x;y plus x
+y+x;add y to x
+y+y;y plus y
+y+y;add y to y
+y+z;y plus z
+y+z;add y to z
+z+0;z plus zero
+z+0;add z to zero
+z+1;z plus one
+z+1;add z to one
+z+2;z plus two
+z+2;add z to two
+z+3;z plus three
+z+3;add z to three
+z+4;z plus four
+z+4;add z to four
+z+5;z plus five
+z+5;add z to five
+z+6;z plus six
+z+6;add z to six
+z+7;z plus seven
+z+7;add z to seven
+z+8;z plus eight
+z+8;add z to eight
+z+9;z plus nine
+z+9;add z to nine
+z+x;z plus x
+z+x;add z to x
+z+y;z plus y
+z+y;add z to y
+z+z;z plus z
+z+z;add z to z
+0 \times 0;zero times zero
+0 \times 0;zero multiplied by zero
+0 \times 0;product of zero and zero
+0 \times 1;zero times one
+0 \times 1;zero multiplied by one
+0 \times 1;product of zero and one
+0 \times 2;zero times two
+0 \times 2;zero multiplied by two
+0 \times 2;product of zero and two
+0 \times 3;zero times three
+0 \times 3;zero multiplied by three
+0 \times 3;product of zero and three
+0 \times 4;zero times four
+0 \times 4;zero multiplied by four
+0 \times 4;product of zero and four
+0 \times 5;zero times five
+0 \times 5;zero multiplied by five
+0 \times 5;product of zero and five
+0 \times 6;zero times six
+0 \times 6;zero multiplied by six
+0 \times 6;product of zero and six
+0 \times 7;zero times seven
+0 \times 7;zero multiplied by seven
+0 \times 7;product of zero and seven
+0 \times 8;zero times eight
+0 \times 8;zero multiplied by eight
+0 \times 8;product of zero and eight
+0 \times 9;zero times nine
+0 \times 9;zero multiplied by nine
+0 \times 9;product of zero and nine
+0 \times x;zero times x
+0 \times x;zero multiplied by x
+0 \times x;product of zero and x
+0 \times y;zero times y
+0 \times y;zero multiplied by y
+0 \times y;product of zero and y
+0 \times z;zero times z
+0 \times z;zero multiplied by z
+0 \times z;product of zero and z
+1 \times 0;one times zero
+1 \times 0;one multiplied by zero
+1 \times 0;product of one and zero
+1 \times 1;one times one
+1 \times 1;one multiplied by one
+1 \times 1;product of one and one
+1 \times 2;one times two
+1 \times 2;one multiplied by two
+1 \times 2;product of one and two
+1 \times 3;one times three
+1 \times 3;one multiplied by three
+1 \times 3;product of one and three
+1 \times 4;one times four
+1 \times 4;one multiplied by four
+1 \times 4;product of one and four
+1 \times 5;one times five
+1 \times 5;one multiplied by five
+1 \times 5;product of one and five
+1 \times 6;one times six
+1 \times 6;one multiplied by six
+1 \times 6;product of one and six
+1 \times 7;one times seven
+1 \times 7;one multiplied by seven
+1 \times 7;product of one and seven
+1 \times 8;one times eight
+1 \times 8;one multiplied by eight
+1 \times 8;product of one and eight
+1 \times 9;one times nine
+1 \times 9;one multiplied by nine
+1 \times 9;product of one and nine
+1 \times x;one times x
+1 \times x;one multiplied by x
+1 \times x;product of one and x
+1 \times y;one times y
+1 \times y;one multiplied by y
+1 \times y;product of one and y
+1 \times z;one times z
+1 \times z;one multiplied by z
+1 \times z;product of one and z
+2 \times 0;two times zero
+2 \times 0;two multiplied by zero
+2 \times 0;product of two and zero
+2 \times 1;two times one
+2 \times 1;two multiplied by one
+2 \times 1;product of two and one
+2 \times 2;two times two
+2 \times 2;two multiplied by two
+2 \times 2;product of two and two
+2 \times 3;two times three
+2 \times 3;two multiplied by three
+2 \times 3;product of two and three
+2 \times 4;two times four
+2 \times 4;two multiplied by four
+2 \times 4;product of two and four
+2 \times 5;two times five
+2 \times 5;two multiplied by five
+2 \times 5;product of two and five
+2 \times 6;two times six
+2 \times 6;two multiplied by six
+2 \times 6;product of two and six
+2 \times 7;two times seven
+2 \times 7;two multiplied by seven
+2 \times 7;product of two and seven
+2 \times 8;two times eight
+2 \times 8;two multiplied by eight
+2 \times 8;product of two and eight
+2 \times 9;two times nine
+2 \times 9;two multiplied by nine
+2 \times 9;product of two and nine
+2 \times x;two times x
+2 \times x;two multiplied by x
+2 \times x;product of two and x
+2 \times y;two times y
+2 \times y;two multiplied by y
+2 \times y;product of two and y
+2 \times z;two times z
+2 \times z;two multiplied by z
+2 \times z;product of two and z
+3 \times 0;three times zero
+3 \times 0;three multiplied by zero
+3 \times 0;product of three and zero
+3 \times 1;three times one
+3 \times 1;three multiplied by one
+3 \times 1;product of three and one
+3 \times 2;three times two
+3 \times 2;three multiplied by two
+3 \times 2;product of three and two
+3 \times 3;three times three
+3 \times 3;three multiplied by three
+3 \times 3;product of three and three
+3 \times 4;three times four
+3 \times 4;three multiplied by four
+3 \times 4;product of three and four
+3 \times 5;three times five
+3 \times 5;three multiplied by five
+3 \times 5;product of three and five
+3 \times 6;three times six
+3 \times 6;three multiplied by six
+3 \times 6;product of three and six
+3 \times 7;three times seven
+3 \times 7;three multiplied by seven
+3 \times 7;product of three and seven
+3 \times 8;three times eight
+3 \times 8;three multiplied by eight
+3 \times 8;product of three and eight
+3 \times 9;three times nine
+3 \times 9;three multiplied by nine
+3 \times 9;product of three and nine
+3 \times x;three times x
+3 \times x;three multiplied by x
+3 \times x;product of three and x
+3 \times y;three times y
+3 \times y;three multiplied by y
+3 \times y;product of three and y
+3 \times z;three times z
+3 \times z;three multiplied by z
+3 \times z;product of three and z
+4 \times 0;four times zero
+4 \times 0;four multiplied by zero
+4 \times 0;product of four and zero
+4 \times 1;four times one
+4 \times 1;four multiplied by one
+4 \times 1;product of four and one
+4 \times 2;four times two
+4 \times 2;four multiplied by two
+4 \times 2;product of four and two
+4 \times 3;four times three
+4 \times 3;four multiplied by three
+4 \times 3;product of four and three
+4 \times 4;four times four
+4 \times 4;four multiplied by four
+4 \times 4;product of four and four
+4 \times 5;four times five
+4 \times 5;four multiplied by five
+4 \times 5;product of four and five
+4 \times 6;four times six
+4 \times 6;four multiplied by six
+4 \times 6;product of four and six
+4 \times 7;four times seven
+4 \times 7;four multiplied by seven
+4 \times 7;product of four and seven
+4 \times 8;four times eight
+4 \times 8;four multiplied by eight
+4 \times 8;product of four and eight
+4 \times 9;four times nine
+4 \times 9;four multiplied by nine
+4 \times 9;product of four and nine
+4 \times x;four times x
+4 \times x;four multiplied by x
+4 \times x;product of four and x
+4 \times y;four times y
+4 \times y;four multiplied by y
+4 \times y;product of four and y
+4 \times z;four times z
+4 \times z;four multiplied by z
+4 \times z;product of four and z
+5 \times 0;five times zero
+5 \times 0;five multiplied by zero
+5 \times 0;product of five and zero
+5 \times 1;five times one
+5 \times 1;five multiplied by one
+5 \times 1;product of five and one
+5 \times 2;five times two
+5 \times 2;five multiplied by two
+5 \times 2;product of five and two
+5 \times 3;five times three
+5 \times 3;five multiplied by three
+5 \times 3;product of five and three
+5 \times 4;five times four
+5 \times 4;five multiplied by four
+5 \times 4;product of five and four
+5 \times 5;five times five
+5 \times 5;five multiplied by five
+5 \times 5;product of five and five
+5 \times 6;five times six
+5 \times 6;five multiplied by six
+5 \times 6;product of five and six
+5 \times 7;five times seven
+5 \times 7;five multiplied by seven
+5 \times 7;product of five and seven
+5 \times 8;five times eight
+5 \times 8;five multiplied by eight
+5 \times 8;product of five and eight
+5 \times 9;five times nine
+5 \times 9;five multiplied by nine
+5 \times 9;product of five and nine
+5 \times x;five times x
+5 \times x;five multiplied by x
+5 \times x;product of five and x
+5 \times y;five times y
+5 \times y;five multiplied by y
+5 \times y;product of five and y
+5 \times z;five times z
+5 \times z;five multiplied by z
+5 \times z;product of five and z
+6 \times 0;six times zero
+6 \times 0;six multiplied by zero
+6 \times 0;product of six and zero
+6 \times 1;six times one
+6 \times 1;six multiplied by one
+6 \times 1;product of six and one
+6 \times 2;six times two
+6 \times 2;six multiplied by two
+6 \times 2;product of six and two
+6 \times 3;six times three
+6 \times 3;six multiplied by three
+6 \times 3;product of six and three
+6 \times 4;six times four
+6 \times 4;six multiplied by four
+6 \times 4;product of six and four
+6 \times 5;six times five
+6 \times 5;six multiplied by five
+6 \times 5;product of six and five
+6 \times 6;six times six
+6 \times 6;six multiplied by six
+6 \times 6;product of six and six
+6 \times 7;six times seven
+6 \times 7;six multiplied by seven
+6 \times 7;product of six and seven
+6 \times 8;six times eight
+6 \times 8;six multiplied by eight
+6 \times 8;product of six and eight
+6 \times 9;six times nine
+6 \times 9;six multiplied by nine
+6 \times 9;product of six and nine
+6 \times x;six times x
+6 \times x;six multiplied by x
+6 \times x;product of six and x
+6 \times y;six times y
+6 \times y;six multiplied by y
+6 \times y;product of six and y
+6 \times z;six times z
+6 \times z;six multiplied by z
+6 \times z;product of six and z
+7 \times 0;seven times zero
+7 \times 0;seven multiplied by zero
+7 \times 0;product of seven and zero
+7 \times 1;seven times one
+7 \times 1;seven multiplied by one
+7 \times 1;product of seven and one
+7 \times 2;seven times two
+7 \times 2;seven multiplied by two
+7 \times 2;product of seven and two
+7 \times 3;seven times three
+7 \times 3;seven multiplied by three
+7 \times 3;product of seven and three
+7 \times 4;seven times four
+7 \times 4;seven multiplied by four
+7 \times 4;product of seven and four
+7 \times 5;seven times five
+7 \times 5;seven multiplied by five
+7 \times 5;product of seven and five
+7 \times 6;seven times six
+7 \times 6;seven multiplied by six
+7 \times 6;product of seven and six
+7 \times 7;seven times seven
+7 \times 7;seven multiplied by seven
+7 \times 7;product of seven and seven
+7 \times 8;seven times eight
+7 \times 8;seven multiplied by eight
+7 \times 8;product of seven and eight
+7 \times 9;seven times nine
+7 \times 9;seven multiplied by nine
+7 \times 9;product of seven and nine
+7 \times x;seven times x
+7 \times x;seven multiplied by x
+7 \times x;product of seven and x
+7 \times y;seven times y
+7 \times y;seven multiplied by y
+7 \times y;product of seven and y
+7 \times z;seven times z
+7 \times z;seven multiplied by z
+7 \times z;product of seven and z
+8 \times 0;eight times zero
+8 \times 0;eight multiplied by zero
+8 \times 0;product of eight and zero
+8 \times 1;eight times one
+8 \times 1;eight multiplied by one
+8 \times 1;product of eight and one
+8 \times 2;eight times two
+8 \times 2;eight multiplied by two
+8 \times 2;product of eight and two
+8 \times 3;eight times three
+8 \times 3;eight multiplied by three
+8 \times 3;product of eight and three
+8 \times 4;eight times four
+8 \times 4;eight multiplied by four
+8 \times 4;product of eight and four
+8 \times 5;eight times five
+8 \times 5;eight multiplied by five
+8 \times 5;product of eight and five
+8 \times 6;eight times six
+8 \times 6;eight multiplied by six
+8 \times 6;product of eight and six
+8 \times 7;eight times seven
+8 \times 7;eight multiplied by seven
+8 \times 7;product of eight and seven
+8 \times 8;eight times eight
+8 \times 8;eight multiplied by eight
+8 \times 8;product of eight and eight
+8 \times 9;eight times nine
+8 \times 9;eight multiplied by nine
+8 \times 9;product of eight and nine
+8 \times x;eight times x
+8 \times x;eight multiplied by x
+8 \times x;product of eight and x
+8 \times y;eight times y
+8 \times y;eight multiplied by y
+8 \times y;product of eight and y
+8 \times z;eight times z
+8 \times z;eight multiplied by z
+8 \times z;product of eight and z
+9 \times 0;nine times zero
+9 \times 0;nine multiplied by zero
+9 \times 0;product of nine and zero
+9 \times 1;nine times one
+9 \times 1;nine multiplied by one
+9 \times 1;product of nine and one
+9 \times 2;nine times two
+9 \times 2;nine multiplied by two
+9 \times 2;product of nine and two
+9 \times 3;nine times three
+9 \times 3;nine multiplied by three
+9 \times 3;product of nine and three
+9 \times 4;nine times four
+9 \times 4;nine multiplied by four
+9 \times 4;product of nine and four
+9 \times 5;nine times five
+9 \times 5;nine multiplied by five
+9 \times 5;product of nine and five
+9 \times 6;nine times six
+9 \times 6;nine multiplied by six
+9 \times 6;product of nine and six
+9 \times 7;nine times seven
+9 \times 7;nine multiplied by seven
+9 \times 7;product of nine and seven
+9 \times 8;nine times eight
+9 \times 8;nine multiplied by eight
+9 \times 8;product of nine and eight
+9 \times 9;nine times nine
+9 \times 9;nine multiplied by nine
+9 \times 9;product of nine and nine
+9 \times x;nine times x
+9 \times x;nine multiplied by x
+9 \times x;product of nine and x
+9 \times y;nine times y
+9 \times y;nine multiplied by y
+9 \times y;product of nine and y
+9 \times z;nine times z
+9 \times z;nine multiplied by z
+9 \times z;product of nine and z
+x \times 0;x times zero
+x \times 0;x multiplied by zero
+x \times 0;product of x and zero
+x \times 1;x times one
+x \times 1;x multiplied by one
+x \times 1;product of x and one
+x \times 2;x times two
+x \times 2;x multiplied by two
+x \times 2;product of x and two
+x \times 3;x times three
+x \times 3;x multiplied by three
+x \times 3;product of x and three
+x \times 4;x times four
+x \times 4;x multiplied by four
+x \times 4;product of x and four
+x \times 5;x times five
+x \times 5;x multiplied by five
+x \times 5;product of x and five
+x \times 6;x times six
+x \times 6;x multiplied by six
+x \times 6;product of x and six
+x \times 7;x times seven
+x \times 7;x multiplied by seven
+x \times 7;product of x and seven
+x \times 8;x times eight
+x \times 8;x multiplied by eight
+x \times 8;product of x and eight
+x \times 9;x times nine
+x \times 9;x multiplied by nine
+x \times 9;product of x and nine
+x \times x;x times x
+x \times x;x multiplied by x
+x \times x;product of x and x
+x \times y;x times y
+x \times y;x multiplied by y
+x \times y;product of x and y
+x \times z;x times z
+x \times z;x multiplied by z
+x \times z;product of x and z
+y \times 0;y times zero
+y \times 0;y multiplied by zero
+y \times 0;product of y and zero
+y \times 1;y times one
+y \times 1;y multiplied by one
+y \times 1;product of y and one
+y \times 2;y times two
+y \times 2;y multiplied by two
+y \times 2;product of y and two
+y \times 3;y times three
+y \times 3;y multiplied by three
+y \times 3;product of y and three
+y \times 4;y times four
+y \times 4;y multiplied by four
+y \times 4;product of y and four
+y \times 5;y times five
+y \times 5;y multiplied by five
+y \times 5;product of y and five
+y \times 6;y times six
+y \times 6;y multiplied by six
+y \times 6;product of y and six
+y \times 7;y times seven
+y \times 7;y multiplied by seven
+y \times 7;product of y and seven
+y \times 8;y times eight
+y \times 8;y multiplied by eight
+y \times 8;product of y and eight
+y \times 9;y times nine
+y \times 9;y multiplied by nine
+y \times 9;product of y and nine
+y \times x;y times x
+y \times x;y multiplied by x
+y \times x;product of y and x
+y \times y;y times y
+y \times y;y multiplied by y
+y \times y;product of y and y
+y \times z;y times z
+y \times z;y multiplied by z
+y \times z;product of y and z
+z \times 0;z times zero
+z \times 0;z multiplied by zero
+z \times 0;product of z and zero
+z \times 1;z times one
+z \times 1;z multiplied by one
+z \times 1;product of z and one
+z \times 2;z times two
+z \times 2;z multiplied by two
+z \times 2;product of z and two
+z \times 3;z times three
+z \times 3;z multiplied by three
+z \times 3;product of z and three
+z \times 4;z times four
+z \times 4;z multiplied by four
+z \times 4;product of z and four
+z \times 5;z times five
+z \times 5;z multiplied by five
+z \times 5;product of z and five
+z \times 6;z times six
+z \times 6;z multiplied by six
+z \times 6;product of z and six
+z \times 7;z times seven
+z \times 7;z multiplied by seven
+z \times 7;product of z and seven
+z \times 8;z times eight
+z \times 8;z multiplied by eight
+z \times 8;product of z and eight
+z \times 9;z times nine
+z \times 9;z multiplied by nine
+z \times 9;product of z and nine
+z \times x;z times x
+z \times x;z multiplied by x
+z \times x;product of z and x
+z \times y;z times y
+z \times y;z multiplied by y
+z \times y;product of z and y
+z \times z;z times z
+z \times z;z multiplied by z
+z \times z;product of z and z
+0 \ne 0;zero is not equal to zero
+0 \ne 1;zero is not equal to one
+0 \ne 2;zero is not equal to two
+0 \ne 3;zero is not equal to three
+0 \ne 4;zero is not equal to four
+0 \ne 5;zero is not equal to five
+0 \ne 6;zero is not equal to six
+0 \ne 7;zero is not equal to seven
+0 \ne 8;zero is not equal to eight
+0 \ne 9;zero is not equal to nine
+0 \ne x;zero is not equal to x
+0 \ne y;zero is not equal to y
+0 \ne z;zero is not equal to z
+1 \ne 0;one is not equal to zero
+1 \ne 1;one is not equal to one
+1 \ne 2;one is not equal to two
+1 \ne 3;one is not equal to three
+1 \ne 4;one is not equal to four
+1 \ne 5;one is not equal to five
+1 \ne 6;one is not equal to six
+1 \ne 7;one is not equal to seven
+1 \ne 8;one is not equal to eight
+1 \ne 9;one is not equal to nine
+1 \ne x;one is not equal to x
+1 \ne y;one is not equal to y
+1 \ne z;one is not equal to z
+2 \ne 0;two is not equal to zero
+2 \ne 1;two is not equal to one
+2 \ne 2;two is not equal to two
+2 \ne 3;two is not equal to three
+2 \ne 4;two is not equal to four
+2 \ne 5;two is not equal to five
+2 \ne 6;two is not equal to six
+2 \ne 7;two is not equal to seven
+2 \ne 8;two is not equal to eight
+2 \ne 9;two is not equal to nine
+2 \ne x;two is not equal to x
+2 \ne y;two is not equal to y
+2 \ne z;two is not equal to z
+3 \ne 0;three is not equal to zero
+3 \ne 1;three is not equal to one
+3 \ne 2;three is not equal to two
+3 \ne 3;three is not equal to three
+3 \ne 4;three is not equal to four
+3 \ne 5;three is not equal to five
+3 \ne 6;three is not equal to six
+3 \ne 7;three is not equal to seven
+3 \ne 8;three is not equal to eight
+3 \ne 9;three is not equal to nine
+3 \ne x;three is not equal to x
+3 \ne y;three is not equal to y
+3 \ne z;three is not equal to z
+4 \ne 0;four is not equal to zero
+4 \ne 1;four is not equal to one
+4 \ne 2;four is not equal to two
+4 \ne 3;four is not equal to three
+4 \ne 4;four is not equal to four
+4 \ne 5;four is not equal to five
+4 \ne 6;four is not equal to six
+4 \ne 7;four is not equal to seven
+4 \ne 8;four is not equal to eight
+4 \ne 9;four is not equal to nine
+4 \ne x;four is not equal to x
+4 \ne y;four is not equal to y
+4 \ne z;four is not equal to z
+5 \ne 0;five is not equal to zero
+5 \ne 1;five is not equal to one
+5 \ne 2;five is not equal to two
+5 \ne 3;five is not equal to three
+5 \ne 4;five is not equal to four
+5 \ne 5;five is not equal to five
+5 \ne 6;five is not equal to six
+5 \ne 7;five is not equal to seven
+5 \ne 8;five is not equal to eight
+5 \ne 9;five is not equal to nine
+5 \ne x;five is not equal to x
+5 \ne y;five is not equal to y
+5 \ne z;five is not equal to z
+6 \ne 0;six is not equal to zero
+6 \ne 1;six is not equal to one
+6 \ne 2;six is not equal to two
+6 \ne 3;six is not equal to three
+6 \ne 4;six is not equal to four
+6 \ne 5;six is not equal to five
+6 \ne 6;six is not equal to six
+6 \ne 7;six is not equal to seven
+6 \ne 8;six is not equal to eight
+6 \ne 9;six is not equal to nine
+6 \ne x;six is not equal to x
+6 \ne y;six is not equal to y
+6 \ne z;six is not equal to z
+7 \ne 0;seven is not equal to zero
+7 \ne 1;seven is not equal to one
+7 \ne 2;seven is not equal to two
+7 \ne 3;seven is not equal to three
+7 \ne 4;seven is not equal to four
+7 \ne 5;seven is not equal to five
+7 \ne 6;seven is not equal to six
+7 \ne 7;seven is not equal to seven
+7 \ne 8;seven is not equal to eight
+7 \ne 9;seven is not equal to nine
+7 \ne x;seven is not equal to x
+7 \ne y;seven is not equal to y
+7 \ne z;seven is not equal to z
+8 \ne 0;eight is not equal to zero
+8 \ne 1;eight is not equal to one
+8 \ne 2;eight is not equal to two
+8 \ne 3;eight is not equal to three
+8 \ne 4;eight is not equal to four
+8 \ne 5;eight is not equal to five
+8 \ne 6;eight is not equal to six
+8 \ne 7;eight is not equal to seven
+8 \ne 8;eight is not equal to eight
+8 \ne 9;eight is not equal to nine
+8 \ne x;eight is not equal to x
+8 \ne y;eight is not equal to y
+8 \ne z;eight is not equal to z
+9 \ne 0;nine is not equal to zero
+9 \ne 1;nine is not equal to one
+9 \ne 2;nine is not equal to two
+9 \ne 3;nine is not equal to three
+9 \ne 4;nine is not equal to four
+9 \ne 5;nine is not equal to five
+9 \ne 6;nine is not equal to six
+9 \ne 7;nine is not equal to seven
+9 \ne 8;nine is not equal to eight
+9 \ne 9;nine is not equal to nine
+9 \ne x;nine is not equal to x
+9 \ne y;nine is not equal to y
+9 \ne z;nine is not equal to z
+x \ne 0;x is not equal to zero
+x \ne 1;x is not equal to one
+x \ne 2;x is not equal to two
+x \ne 3;x is not equal to three
+x \ne 4;x is not equal to four
+x \ne 5;x is not equal to five
+x \ne 6;x is not equal to six
+x \ne 7;x is not equal to seven
+x \ne 8;x is not equal to eight
+x \ne 9;x is not equal to nine
+x \ne x;x is not equal to x
+x \ne y;x is not equal to y
+x \ne z;x is not equal to z
+y \ne 0;y is not equal to zero
+y \ne 1;y is not equal to one
+y \ne 2;y is not equal to two
+y \ne 3;y is not equal to three
+y \ne 4;y is not equal to four
+y \ne 5;y is not equal to five
+y \ne 6;y is not equal to six
+y \ne 7;y is not equal to seven
+y \ne 8;y is not equal to eight
+y \ne 9;y is not equal to nine
+y \ne x;y is not equal to x
+y \ne y;y is not equal to y
+y \ne z;y is not equal to z
+z \ne 0;z is not equal to zero
+z \ne 1;z is not equal to one
+z \ne 2;z is not equal to two
+z \ne 3;z is not equal to three
+z \ne 4;z is not equal to four
+z \ne 5;z is not equal to five
+z \ne 6;z is not equal to six
+z \ne 7;z is not equal to seven
+z \ne 8;z is not equal to eight
+z \ne 9;z is not equal to nine
+z \ne x;z is not equal to x
+z \ne y;z is not equal to y
+z \ne z;z is not equal to z
+0 \ge 0;zero is greater or equal to zero
+0 \ge 1;zero is greater or equal to one
+0 \ge 2;zero is greater or equal to two
+0 \ge 3;zero is greater or equal to three
+0 \ge 4;zero is greater or equal to four
+0 \ge 5;zero is greater or equal to five
+0 \ge 6;zero is greater or equal to six
+0 \ge 7;zero is greater or equal to seven
+0 \ge 8;zero is greater or equal to eight
+0 \ge 9;zero is greater or equal to nine
+0 \ge x;zero is greater or equal to x
+0 \ge y;zero is greater or equal to y
+0 \ge z;zero is greater or equal to z
+1 \ge 0;one is greater or equal to zero
+1 \ge 1;one is greater or equal to one
+1 \ge 2;one is greater or equal to two
+1 \ge 3;one is greater or equal to three
+1 \ge 4;one is greater or equal to four
+1 \ge 5;one is greater or equal to five
+1 \ge 6;one is greater or equal to six
+1 \ge 7;one is greater or equal to seven
+1 \ge 8;one is greater or equal to eight
+1 \ge 9;one is greater or equal to nine
+1 \ge x;one is greater or equal to x
+1 \ge y;one is greater or equal to y
+1 \ge z;one is greater or equal to z
+2 \ge 0;two is greater or equal to zero
+2 \ge 1;two is greater or equal to one
+2 \ge 2;two is greater or equal to two
+2 \ge 3;two is greater or equal to three
+2 \ge 4;two is greater or equal to four
+2 \ge 5;two is greater or equal to five
+2 \ge 6;two is greater or equal to six
+2 \ge 7;two is greater or equal to seven
+2 \ge 8;two is greater or equal to eight
+2 \ge 9;two is greater or equal to nine
+2 \ge x;two is greater or equal to x
+2 \ge y;two is greater or equal to y
+2 \ge z;two is greater or equal to z
+3 \ge 0;three is greater or equal to zero
+3 \ge 1;three is greater or equal to one
+3 \ge 2;three is greater or equal to two
+3 \ge 3;three is greater or equal to three
+3 \ge 4;three is greater or equal to four
+3 \ge 5;three is greater or equal to five
+3 \ge 6;three is greater or equal to six
+3 \ge 7;three is greater or equal to seven
+3 \ge 8;three is greater or equal to eight
+3 \ge 9;three is greater or equal to nine
+3 \ge x;three is greater or equal to x
+3 \ge y;three is greater or equal to y
+3 \ge z;three is greater or equal to z
+4 \ge 0;four is greater or equal to zero
+4 \ge 1;four is greater or equal to one
+4 \ge 2;four is greater or equal to two
+4 \ge 3;four is greater or equal to three
+4 \ge 4;four is greater or equal to four
+4 \ge 5;four is greater or equal to five
+4 \ge 6;four is greater or equal to six
+4 \ge 7;four is greater or equal to seven
+4 \ge 8;four is greater or equal to eight
+4 \ge 9;four is greater or equal to nine
+4 \ge x;four is greater or equal to x
+4 \ge y;four is greater or equal to y
+4 \ge z;four is greater or equal to z
+5 \ge 0;five is greater or equal to zero
+5 \ge 1;five is greater or equal to one
+5 \ge 2;five is greater or equal to two
+5 \ge 3;five is greater or equal to three
+5 \ge 4;five is greater or equal to four
+5 \ge 5;five is greater or equal to five
+5 \ge 6;five is greater or equal to six
+5 \ge 7;five is greater or equal to seven
+5 \ge 8;five is greater or equal to eight
+5 \ge 9;five is greater or equal to nine
+5 \ge x;five is greater or equal to x
+5 \ge y;five is greater or equal to y
+5 \ge z;five is greater or equal to z
+6 \ge 0;six is greater or equal to zero
+6 \ge 1;six is greater or equal to one
+6 \ge 2;six is greater or equal to two
+6 \ge 3;six is greater or equal to three
+6 \ge 4;six is greater or equal to four
+6 \ge 5;six is greater or equal to five
+6 \ge 6;six is greater or equal to six
+6 \ge 7;six is greater or equal to seven
+6 \ge 8;six is greater or equal to eight
+6 \ge 9;six is greater or equal to nine
+6 \ge x;six is greater or equal to x
+6 \ge y;six is greater or equal to y
+6 \ge z;six is greater or equal to z
+7 \ge 0;seven is greater or equal to zero
+7 \ge 1;seven is greater or equal to one
+7 \ge 2;seven is greater or equal to two
+7 \ge 3;seven is greater or equal to three
+7 \ge 4;seven is greater or equal to four
+7 \ge 5;seven is greater or equal to five
+7 \ge 6;seven is greater or equal to six
+7 \ge 7;seven is greater or equal to seven
+7 \ge 8;seven is greater or equal to eight
+7 \ge 9;seven is greater or equal to nine
+7 \ge x;seven is greater or equal to x
+7 \ge y;seven is greater or equal to y
+7 \ge z;seven is greater or equal to z
+8 \ge 0;eight is greater or equal to zero
+8 \ge 1;eight is greater or equal to one
+8 \ge 2;eight is greater or equal to two
+8 \ge 3;eight is greater or equal to three
+8 \ge 4;eight is greater or equal to four
+8 \ge 5;eight is greater or equal to five
+8 \ge 6;eight is greater or equal to six
+8 \ge 7;eight is greater or equal to seven
+8 \ge 8;eight is greater or equal to eight
+8 \ge 9;eight is greater or equal to nine
+8 \ge x;eight is greater or equal to x
+8 \ge y;eight is greater or equal to y
+8 \ge z;eight is greater or equal to z
+9 \ge 0;nine is greater or equal to zero
+9 \ge 1;nine is greater or equal to one
+9 \ge 2;nine is greater or equal to two
+9 \ge 3;nine is greater or equal to three
+9 \ge 4;nine is greater or equal to four
+9 \ge 5;nine is greater or equal to five
+9 \ge 6;nine is greater or equal to six
+9 \ge 7;nine is greater or equal to seven
+9 \ge 8;nine is greater or equal to eight
+9 \ge 9;nine is greater or equal to nine
+9 \ge x;nine is greater or equal to x
+9 \ge y;nine is greater or equal to y
+9 \ge z;nine is greater or equal to z
+x \ge 0;x is greater or equal to zero
+x \ge 1;x is greater or equal to one
+x \ge 2;x is greater or equal to two
+x \ge 3;x is greater or equal to three
+x \ge 4;x is greater or equal to four
+x \ge 5;x is greater or equal to five
+x \ge 6;x is greater or equal to six
+x \ge 7;x is greater or equal to seven
+x \ge 8;x is greater or equal to eight
+x \ge 9;x is greater or equal to nine
+x \ge x;x is greater or equal to x
+x \ge y;x is greater or equal to y
+x \ge z;x is greater or equal to z
+y \ge 0;y is greater or equal to zero
+y \ge 1;y is greater or equal to one
+y \ge 2;y is greater or equal to two
+y \ge 3;y is greater or equal to three
+y \ge 4;y is greater or equal to four
+y \ge 5;y is greater or equal to five
+y \ge 6;y is greater or equal to six
+y \ge 7;y is greater or equal to seven
+y \ge 8;y is greater or equal to eight
+y \ge 9;y is greater or equal to nine
+y \ge x;y is greater or equal to x
+y \ge y;y is greater or equal to y
+y \ge z;y is greater or equal to z
+z \ge 0;z is greater or equal to zero
+z \ge 1;z is greater or equal to one
+z \ge 2;z is greater or equal to two
+z \ge 3;z is greater or equal to three
+z \ge 4;z is greater or equal to four
+z \ge 5;z is greater or equal to five
+z \ge 6;z is greater or equal to six
+z \ge 7;z is greater or equal to seven
+z \ge 8;z is greater or equal to eight
+z \ge 9;z is greater or equal to nine
+z \ge x;z is greater or equal to x
+z \ge y;z is greater or equal to y
+z \ge z;z is greater or equal to z
+0 \le 0;zero is less or equal to zero
+0 \le 1;zero is less or equal to one
+0 \le 2;zero is less or equal to two
+0 \le 3;zero is less or equal to three
+0 \le 4;zero is less or equal to four
+0 \le 5;zero is less or equal to five
+0 \le 6;zero is less or equal to six
+0 \le 7;zero is less or equal to seven
+0 \le 8;zero is less or equal to eight
+0 \le 9;zero is less or equal to nine
+0 \le x;zero is less or equal to x
+0 \le y;zero is less or equal to y
+0 \le z;zero is less or equal to z
+1 \le 0;one is less or equal to zero
+1 \le 1;one is less or equal to one
+1 \le 2;one is less or equal to two
+1 \le 3;one is less or equal to three
+1 \le 4;one is less or equal to four
+1 \le 5;one is less or equal to five
+1 \le 6;one is less or equal to six
+1 \le 7;one is less or equal to seven
+1 \le 8;one is less or equal to eight
+1 \le 9;one is less or equal to nine
+1 \le x;one is less or equal to x
+1 \le y;one is less or equal to y
+1 \le z;one is less or equal to z
+2 \le 0;two is less or equal to zero
+2 \le 1;two is less or equal to one
+2 \le 2;two is less or equal to two
+2 \le 3;two is less or equal to three
+2 \le 4;two is less or equal to four
+2 \le 5;two is less or equal to five
+2 \le 6;two is less or equal to six
+2 \le 7;two is less or equal to seven
+2 \le 8;two is less or equal to eight
+2 \le 9;two is less or equal to nine
+2 \le x;two is less or equal to x
+2 \le y;two is less or equal to y
+2 \le z;two is less or equal to z
+3 \le 0;three is less or equal to zero
+3 \le 1;three is less or equal to one
+3 \le 2;three is less or equal to two
+3 \le 3;three is less or equal to three
+3 \le 4;three is less or equal to four
+3 \le 5;three is less or equal to five
+3 \le 6;three is less or equal to six
+3 \le 7;three is less or equal to seven
+3 \le 8;three is less or equal to eight
+3 \le 9;three is less or equal to nine
+3 \le x;three is less or equal to x
+3 \le y;three is less or equal to y
+3 \le z;three is less or equal to z
+4 \le 0;four is less or equal to zero
+4 \le 1;four is less or equal to one
+4 \le 2;four is less or equal to two
+4 \le 3;four is less or equal to three
+4 \le 4;four is less or equal to four
+4 \le 5;four is less or equal to five
+4 \le 6;four is less or equal to six
+4 \le 7;four is less or equal to seven
+4 \le 8;four is less or equal to eight
+4 \le 9;four is less or equal to nine
+4 \le x;four is less or equal to x
+4 \le y;four is less or equal to y
+4 \le z;four is less or equal to z
+5 \le 0;five is less or equal to zero
+5 \le 1;five is less or equal to one
+5 \le 2;five is less or equal to two
+5 \le 3;five is less or equal to three
+5 \le 4;five is less or equal to four
+5 \le 5;five is less or equal to five
+5 \le 6;five is less or equal to six
+5 \le 7;five is less or equal to seven
+5 \le 8;five is less or equal to eight
+5 \le 9;five is less or equal to nine
+5 \le x;five is less or equal to x
+5 \le y;five is less or equal to y
+5 \le z;five is less or equal to z
+6 \le 0;six is less or equal to zero
+6 \le 1;six is less or equal to one
+6 \le 2;six is less or equal to two
+6 \le 3;six is less or equal to three
+6 \le 4;six is less or equal to four
+6 \le 5;six is less or equal to five
+6 \le 6;six is less or equal to six
+6 \le 7;six is less or equal to seven
+6 \le 8;six is less or equal to eight
+6 \le 9;six is less or equal to nine
+6 \le x;six is less or equal to x
+6 \le y;six is less or equal to y
+6 \le z;six is less or equal to z
+7 \le 0;seven is less or equal to zero
+7 \le 1;seven is less or equal to one
+7 \le 2;seven is less or equal to two
+7 \le 3;seven is less or equal to three
+7 \le 4;seven is less or equal to four
+7 \le 5;seven is less or equal to five
+7 \le 6;seven is less or equal to six
+7 \le 7;seven is less or equal to seven
+7 \le 8;seven is less or equal to eight
+7 \le 9;seven is less or equal to nine
+7 \le x;seven is less or equal to x
+7 \le y;seven is less or equal to y
+7 \le z;seven is less or equal to z
+8 \le 0;eight is less or equal to zero
+8 \le 1;eight is less or equal to one
+8 \le 2;eight is less or equal to two
+8 \le 3;eight is less or equal to three
+8 \le 4;eight is less or equal to four
+8 \le 5;eight is less or equal to five
+8 \le 6;eight is less or equal to six
+8 \le 7;eight is less or equal to seven
+8 \le 8;eight is less or equal to eight
+8 \le 9;eight is less or equal to nine
+8 \le x;eight is less or equal to x
+8 \le y;eight is less or equal to y
+8 \le z;eight is less or equal to z
+9 \le 0;nine is less or equal to zero
+9 \le 1;nine is less or equal to one
+9 \le 2;nine is less or equal to two
+9 \le 3;nine is less or equal to three
+9 \le 4;nine is less or equal to four
+9 \le 5;nine is less or equal to five
+9 \le 6;nine is less or equal to six
+9 \le 7;nine is less or equal to seven
+9 \le 8;nine is less or equal to eight
+9 \le 9;nine is less or equal to nine
+9 \le x;nine is less or equal to x
+9 \le y;nine is less or equal to y
+9 \le z;nine is less or equal to z
+x \le 0;x is less or equal to zero
+x \le 1;x is less or equal to one
+x \le 2;x is less or equal to two
+x \le 3;x is less or equal to three
+x \le 4;x is less or equal to four
+x \le 5;x is less or equal to five
+x \le 6;x is less or equal to six
+x \le 7;x is less or equal to seven
+x \le 8;x is less or equal to eight
+x \le 9;x is less or equal to nine
+x \le x;x is less or equal to x
+x \le y;x is less or equal to y
+x \le z;x is less or equal to z
+y \le 0;y is less or equal to zero
+y \le 1;y is less or equal to one
+y \le 2;y is less or equal to two
+y \le 3;y is less or equal to three
+y \le 4;y is less or equal to four
+y \le 5;y is less or equal to five
+y \le 6;y is less or equal to six
+y \le 7;y is less or equal to seven
+y \le 8;y is less or equal to eight
+y \le 9;y is less or equal to nine
+y \le x;y is less or equal to x
+y \le y;y is less or equal to y
+y \le z;y is less or equal to z
+z \le 0;z is less or equal to zero
+z \le 1;z is less or equal to one
+z \le 2;z is less or equal to two
+z \le 3;z is less or equal to three
+z \le 4;z is less or equal to four
+z \le 5;z is less or equal to five
+z \le 6;z is less or equal to six
+z \le 7;z is less or equal to seven
+z \le 8;z is less or equal to eight
+z \le 9;z is less or equal to nine
+z \le x;z is less or equal to x
+z \le y;z is less or equal to y
+z \le z;z is less or equal to z
